@@ -1,2 +1,0 @@
-# Hyperloop
-Hyperloop organizations repository
